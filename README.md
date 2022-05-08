@@ -4,14 +4,14 @@ I am web developer.
 My social media accounts below👇 <br>
 
 <a href="https://www.linkedin.com/in/abbosshamsiddin?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKEJQ1JbZSpuOgjUV1GslMw%3D%3D">
-  <img src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent--background-PNG.png" width="25px">
+  <img src="https://abovethelaw.com/uploads/2016/01/linkedin-logo.png" width="22px">
 </a>
 
 <a href="https://instagram.com/Abbos_shamsiddin">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="25px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="22px">
 </a>
 
 <a href="https://www.linkedin.com/in/abbosshamsiddin?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKEJQ1JbZSpuOgjUV1GslMw%3D%3D">
-  <img src="https://pnggrid.com/wp-content/uploads/2021/07/Facebook-Logo-Square-768x768.png" width="25px">
+  <img src="https://pnggrid.com/wp-content/uploads/2021/07/Facebook-Logo-Square-768x768.png" width="22px">
 </a>
 
