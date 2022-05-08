@@ -1,1 +1,1 @@
-Hi there,I am Abbos <iframe src="https://giphy.com/embed/YSNTUguOMvWiIY4TQx" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/waving-howdy-goodday-YSNTUguOMvWiIY4TQx">via GIPHY</a></p>
+Hi there,I am Abbos <img src="https://giphy.com/gifs/waving-howdy-goodday-YSNTUguOMvWiIY4TQx?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fgithub.com%2F" width="30px">
