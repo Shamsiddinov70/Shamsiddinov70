@@ -14,7 +14,8 @@ My social media accounts below👇 <br>
 <a href="https://www.linkedin.com/in/abbosshamsiddin?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKEJQ1JbZSpuOgjUV1GslMw%3D%3D">
   <img src="https://pnggrid.com/wp-content/uploads/2021/07/Facebook-Logo-Square-768x768.png" width="22px">
 </a>
+
 <a href="https://t.me/algorithms_ash">
-  <img src="https://pnggrid.com/download/telegram-logo-png-2/" width="22px">
+  <img src="https://pnggrid.com/download/telegram-logo-png/" width="22px">
 </a>
 
