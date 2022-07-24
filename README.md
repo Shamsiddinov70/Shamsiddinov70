@@ -16,6 +16,6 @@ My social media accounts below👇 <br>
 </a>
 
 <a href="https://t.me/algorithms_ash">
-  <img src="https://www.freepnglogos.com/pics/telegram-logo" width="22px">
+  <img src="https://pnggrid.com/wp-content/uploads/2021/04/telegram-logo-circle-1024x1024.png" width="22px">
 </a>
 
