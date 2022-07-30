@@ -15,7 +15,7 @@ My social media accounts below👇 <br>
   <img src="https://pnggrid.com/wp-content/uploads/2021/07/Facebook-Logo-Square-768x768.png" width="22px">
 </a>
 
-<a href="https://t.me/algorithms_ash">
+<a href="https://t.me/Abbos_Shamsiddin">
   <img src="https://pnggrid.com/wp-content/uploads/2021/04/telegram-logo-circle-1024x1024.png" width="22px">
 </a>
 
