@@ -38,7 +38,7 @@ My social media accounts below👇 <br>
 <a href="https://dev.to/mr_abbos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mr_abbos" height="30" width="40" /></a>
 <a href="https://twitter.com/abbosshamsiddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abbosshamsiddin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abbosshamsiddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abbosshamsiddin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ashcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashcodes" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@ashcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashcodes" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abbosshamsiddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abbosshamsiddin" height="30" width="40" /></a>
 </p>
 
