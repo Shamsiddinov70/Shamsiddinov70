@@ -31,7 +31,7 @@ My social media accounts below👇 <br>
 
 - 📝 I regularly write articles on [https://t.me/Abbos_Shamsiddin](https://t.me/Abbos_Shamsiddin)
 
-- 💬 Ask me about **react, JS, .NET**
+- 💬 Ask me about **react, JS, Python, .NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
