@@ -25,7 +25,7 @@ My social media accounts below👇 <br>
 
 <p align="left"> <a href="https://twitter.com/abbosshamsiddin" target="blank"><img src="https://img.shields.io/twitter/follow/abbosshamsiddin?logo=twitter&style=for-the-badge" alt="abbosshamsiddin" /></a> </p>
 
-- 🌱 I’m currently learning **C#, ASP.NET**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://shamsiddinovuz.netlify.app/](https://shamsiddinovuz.netlify.app/)
 
